@@ -1,2 +1,2 @@
 #!/bin/bash
-USER="current linux user" | read USER | echo "hello user"
+USER="current linux user" | read USER | echo "hello $USER"
